@@ -1,0 +1,33 @@
+﻿body{
+   width:860px; height:650px;
+   margin-left:auto;
+   margin-right:auto;
+   margin-top:150px;
+border:solid; border-color:black:
+
+}
+
+.Image{
+    width:167px;
+}
+Header{
+    margin-left:4px;    
+    max-height:210px;
+    
+  
+}
+#Sidebar1{
+    align-content:flex-start;
+    width:215px;
+    border:solid; border-color:black;
+    margin-top:20px;
+    margin-left:4px;
+   }
+section{
+    vertical-align:middle;
+position:relative;
+}
+footer {
+    text-align: end;
+}
+
